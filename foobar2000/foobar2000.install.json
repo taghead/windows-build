@@ -1,0 +1,17 @@
+{
+  "name": "foobar2000",
+  "method": "extraction",
+  "archive": "foobar2000.zip",
+  "mainExePath": "foobar2000",
+  "mainExe": "foobar2000.exe",
+  "startup": "login",
+  "installPath": "bin",
+  "notes": "",
+  "result": {
+    "name": "",
+    "startup": "",
+    "install": "",
+    "error": "",
+    "notes": ""
+  }
+}
